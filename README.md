@@ -7,7 +7,7 @@
 
 ## 🎯 Sobre mim
 
-Olá! Eu sou o **[Kelvyn]**, estudante de Ciência da Computação no Instituto Federal do Maranhão (IFMA), Campus Caxias. Minha paixão é criar soluções que integrem **bom front-end**, UX agradável, e **back-ends robustos**, e estou sempre aprendendo para crescer em ambos os lados do desenvolvimento.
+Olá! Eu sou o **Kelvyn**, estudante de Ciência da Computação no Instituto Federal do Maranhão (IFMA), Campus Caxias. Minha paixão é criar soluções que integrem **bom front-end**, UX agradável, e **back-ends robustos**, e estou sempre aprendendo para crescer em ambos os lados do desenvolvimento.
 
 - 📚 Cursando Bacharelado em Ciência da Computação  
 - 💼 Experiência prática em startup de jogos & softwares educativos  
@@ -17,12 +17,20 @@ Olá! Eu sou o **[Kelvyn]**, estudante de Ciência da Computação no Instituto 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-| Área | Tecnologias que domino / nas quais estou estudando |
-|------|-----------------------------------------------------|
-| **Front-end** | React, TypeScript, HTML5, CSS3, JavaScript, frameworks UI (Radix / Shadcn), responsividade / mobile-first, animações, boas práticas de acessibilidade |
-| **Back-end / Infra** | Node.js, Express, REST APIs, bancos de dados relacionais (PostgreSQL), Docker, autenticação, segurança básica, lógica de negócios, integração com e-mail (emailjs) |
-| **Outros** | Gamificação, lógica de jogos, pixel art, visão computacional/automação de estudos, normalização de banco de dados, deploy / versionamento (Git) |
+### 🚀 Front-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
+</p>
 
+### ⚙️ Back-End & Banco de Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker" />
+</p>
+
+### ☕ Outras
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
+</p>
 ---
 
 ## ⚙️ Projetos em Destaque
@@ -37,6 +45,19 @@ Aqui alguns projetos nos quais estou trabalhando ou terminei, que refletem minha
 | **API CuraSys** | Sistema backend robusto, projetado com uma arquitetura MVC limpa. Para fornecer uma solução escalável e sustentável para gerenciar consultas médicas, exames e autenticação de utilizadores.| Tecnologias modernas, como Flask, PostgreSQL, Docker e WSGI |
 | **CuraSys** | Sistema de gestão hospitalar pensado para pequenas clínicas e hospitais. Contando com duas versões Core e Pro. | Flask + PostgreSQL + React + TypeScript |
 | **App de Rotinas Inteligentes** | Assistente que gera agendas / rotinas estruturadas via modelo de inteligência artificial; uso prático para organizar estudos / tarefas. | React / TypeScript, chamadas API a modelo (por exemplo Gemini), lógica de roteiros e geração automática, armazenamento de dados local ou remoto |
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kelvinl14&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinl14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kelvinl14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -65,6 +86,17 @@ Estou sempre buscando:
 - GitHub: (https://github.com/Kelvinl14)  
 - LinkedIn: (https://linkedin.com/in/kelvyn-leôncio-andrade-lima-11701b282)  
 - Email: kermerlima10@gmail.com
+<p align="left">
+  <a href="https://linkedin.com/in/Kelvinl14" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kermerlima10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kelvyn-leôncio-andrade-lima-11701b282">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
