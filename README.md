@@ -1,3 +1,4 @@
+![profile](https://github.com/user-attachments/assets/be243dae-5fe5-4425-8219-8e320b574684)
 # 🚀 Kelvyn Leôncio Andrade Lima
 
 > Estudante de Ciência da Computação | Desenvolvedor Full Stack em Evolução  
