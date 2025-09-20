@@ -31,6 +31,7 @@ Olá! Eu sou o **Kelvyn**, estudante de Ciência da Computação no Instituto Fe
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
 </p>
+
 ---
 
 ## ⚙️ Projetos em Destaque
@@ -53,10 +54,6 @@ Aqui alguns projetos nos quais estou trabalhando ou terminei, que refletem minha
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kelvinl14&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvinl14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kelvinl14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -83,9 +80,6 @@ Estou sempre buscando:
 
 ## 📫 Como me encontrar
 
-- GitHub: (https://github.com/Kelvinl14)  
-- LinkedIn: (https://linkedin.com/in/kelvyn-leôncio-andrade-lima-11701b282)  
-- Email: kermerlima10@gmail.com
 <p align="left">
   <a href="https://linkedin.com/in/Kelvinl14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -97,16 +91,6 @@ Estou sempre buscando:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-## ✨ Extras visuais
-
-Para tornar este README mais atraente, você pode inserir:
-
-- Gifs de demonstração dos projetos (por exemplo tela inicial, animações, gameplay)  
-- Badges com status, tecnologias usadas, licenças, etc.  
-- Capturas de tela / mockups responsivos  
 
 ---
 
