@@ -25,7 +25,7 @@ Olá! Eu sou o **Kelvyn**, estudante de Ciência da Computação no Instituto Fe
 
 ### ⚙️ Back-End & Banco de Dados
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,python" />
 </p>
 
 ### ☕ Outras
